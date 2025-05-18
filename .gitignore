@@ -7,3 +7,5 @@ logs
 rubert-ner
 rubert.ipynb
 output.txt
+docker-compose.yml
+*.fb2
