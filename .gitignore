@@ -1,5 +1,6 @@
 .gradio
 .venv
+.env
 voina_i_mir
 best_model_ru_ner
 texts
@@ -7,3 +8,7 @@ logs
 rubert-ner
 rubert.ipynb
 output.txt
+*.txt
+__pycache__
+*.fb2
+docker-compose.yml
